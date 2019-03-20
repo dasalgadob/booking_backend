@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  movie: one
+  id_card: 1
+  email: MyString
+  name: MyString
+  phone: 1
+  booking_date: 2019-03-20
+
+two:
+  movie: two
+  id_card: 1
+  email: MyString
+  name: MyString
+  phone: 1
+  booking_date: 2019-03-20
